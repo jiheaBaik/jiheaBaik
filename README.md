@@ -1,7 +1,10 @@
-## ✨백지혜
-
+<!--## ✨백지혜-->
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Baik%20Ji%20Hea%20&height=100&fontAlign=86&fontAlignY=75&fontSize=40&animation=fadeIn)
+## 🎖️ Ranking & 🛠️ Github Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh991222)](https://solved.ac/bjh991222/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheaBaik&layout=compact&theme=dracula)
+
+
 <!--
 **jiheaBaik/jiheaBaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
