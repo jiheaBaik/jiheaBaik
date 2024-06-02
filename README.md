@@ -4,7 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh991222)](https://solved.ac/bjh991222/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheaBaik&card_width=485&layout=compact&theme=dracula)
 
-## 📚 Stacks 📚
+## 🛠 Stacks
 <p align="center">
   <img src="https://img.shields.io/badge/C++-DD4B39?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C＃-008C99?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
