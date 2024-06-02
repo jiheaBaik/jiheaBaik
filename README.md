@@ -1,7 +1,7 @@
 ## ✨백지혜
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh991222)](https://solved.ac/bjh991222/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheaBaik&layout=compact&theme=dracula)
 <!--
 **jiheaBaik/jiheaBaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
