@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/C＃-008C99?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-ffb13b?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Mysql-0062AD?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/My-sql-0062AD?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sqlite-6DB33F?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp
 
   <br>
