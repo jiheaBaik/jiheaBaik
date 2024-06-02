@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20Baik%20Ji%20Hea%20&height=100&fontAlign=86&fontAlignY=75&fontSize=40&animation=fadeIn)
 ## 🎖️ Ranking | 💻 Used Languages
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh991222)](https://solved.ac/bjh991222/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheaBaik&card_width=490&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheaBaik&card_width=480&layout=compact&theme=dracula)
 
 ## 📚 Stacks 📚
 <p align="center">
