@@ -19,8 +19,9 @@
   <img src="https://img.shields.io/badge/Confluence-339933?style=flat-square&logo=confluence&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/．Net-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/．Net-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>&nbsp
 
 <!--
 **jiheaBaik/jiheaBaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
