@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/C++-DD4B39?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C＃-008C99?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-ffb13b?style=flat-square&logo=c&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HLSL-C65BCF?style=flat-square&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-0062AD?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sqlite-6DB33F?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp
@@ -22,7 +23,8 @@
   <img src="https://img.shields.io/badge/Unrealengine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/．Net-512BD4?style=flat-square&logo=dotnet&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white"/></a>&nbsp
-
+<br>
+  <img src="https://img.shields.io/badge/DirectX11-1A4D2E?style=flat-square&logoColor=white"/></a>&nbsp
 <!--
 **jiheaBaik/jiheaBaik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
